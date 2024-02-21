@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          this is my first page hii dsad
+          this is my firs page
         </a>
       </header>
     </div>
