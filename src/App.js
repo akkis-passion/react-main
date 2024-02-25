@@ -10,8 +10,6 @@ function App() {
           <li>About</li>
           <li>Product</li>
           <li>Contact</li>
-        
-
         </ul>
       </div>
     </div>
