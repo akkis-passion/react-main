@@ -10,7 +10,7 @@ function App() {
           <li>About</li>
           <li>Product</li>
           <li>Contact</li>
-    <li>blog</li>
+          <li>Blog</li>
 
         </ul>
       </div>
